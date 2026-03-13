@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MahdiEttayi
 - 👀 I’m interested in CS
-- 🌱 I’m currently learning Java
-
+- 🌱 Always learning
 
 <!---
 MahdiEttayi/MahdiEttayi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
